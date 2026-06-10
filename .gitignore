@@ -1,0 +1,28 @@
+/.metadata/
+
+# Backend build and IDE files
+/authrbac/target/
+/authrbac/.classpath
+/authrbac/.factorypath
+/authrbac/.project
+/authrbac/.settings/
+/authrbac/.metadata/
+/authrbac/*.bak
+/authrbac/login_resp.json
+/authrbac/tmp_register.json
+
+# Frontend build and dependencies
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+/frontend/.cache/
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/pnpm-debug.log*
+
+# IDE and system files
+/.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
